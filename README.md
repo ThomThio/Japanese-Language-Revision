@@ -1,6 +1,11 @@
 # Japanese-Language-Revision
 Simple scripts to assist in revising my Japanese-English every morning, night (and commute, if an API layer is built)
 
+Problem solved: Anki is not convenient to create cards, and input the meanings when switching in Japanese to English keyboard, whether on computers or mobile. I also want a program to run anywhere, by adding a simple API layer.
+
+Solution: Allow convenient entry via Excel Macros, switching keyboards using Apple's input sources via a hotkey.
+
+
 Usage:
 Update Living Document with new Japanese words/phrases and its English meanings, vice-versa.
 	Press the "New Learning" button, it is a convenience macro to add a new row (saving you a second per entry!)

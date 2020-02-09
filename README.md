@@ -5,7 +5,7 @@ Usage:
 Update Living Document with new Japanese words/phrases and its English meanings, vice-versa.
 	Press the "New Learning" button, it is a convenience macro to add a new row (saving you a second per entry!)
 <img
-src="https://github.com/ThomThio/Japanese-Language-Revision/Living Document Example.png"
+src="https://github.com/ThomThio/Japanese-Language-Revision/blob/master/Living%20Document%20Example.png"
 raw=true
 alt="Example"
 />

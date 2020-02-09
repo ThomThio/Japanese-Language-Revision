@@ -1,5 +1,5 @@
 # Japanese-Language-Revision
-Simple scripts to assist in revising my Japanese-English every morning, night (and commute, if an API layer is built)
+Scratching a personal itch to assist in revising my Japanese-English every morning, night (and commute, if an API layer is built)
 
 Problem: Anki and other revision apps do not make it convenient to create cards, and input the meanings when switching in Japanese to English keyboard, whether on computers or mobile. Others also come in-built with their own vocabularly, which does not suit the everyday interactions a persona may have, which allows you to learn 'organically'. I also want a program to run anywhere, by adding a simple API layer.
 

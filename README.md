@@ -1,7 +1,7 @@
 # Japanese-Language-Revision
 Simple scripts to assist in revising my Japanese-English every morning, night (and commute, if an API layer is built)
 
-Problem solved: Anki is not convenient to create cards, and input the meanings when switching in Japanese to English keyboard, whether on computers or mobile. I also want a program to run anywhere, by adding a simple API layer.
+Problem: Anki and other revision apps do not make it convenient to create cards, and input the meanings when switching in Japanese to English keyboard, whether on computers or mobile. Others also come in-built with their own vocabularly, which does not suit the everyday interactions a persona may have, which allows you to learn 'organically'. I also want a program to run anywhere, by adding a simple API layer.
 
 Solution: Allow convenient entry via Excel Macros, switching keyboards using Apple's input sources via a hotkey.
 
@@ -18,6 +18,11 @@ alt="Example"
 Run this program on Terminal/command prompt
 	python3 LangRevision.py
 
+<img
+src="https://github.com/ThomThio/Japanese-Language-Revision/blob/master/Program%20Run%20Example.png"
+raw=true
+alt="Example"
+/>
 
 1. Sampling with replacement so that revised words in a session do not appear again. We can save state of the last revised to give a spaced-repeition effect, but this involves having to save to a server/flat-file.
 2. I can request this with an API call later on to push these to a server, serving revisions to different formats (On the go: Phone, at home: a portable android/tablet) or on a Dart/Flutter or website variant. Gunicorn does the trick.

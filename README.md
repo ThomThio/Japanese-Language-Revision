@@ -4,6 +4,8 @@ Simple scripts to assist in revising my Japanese-English every morning, night (a
 Usage:
 Update Living Document with new Japanese words/phrases and its English meanings, vice-versa.
 	Press the "New Learning" button, it is a convenience macro to add a new row (saving you a second per entry!)
+![Image description]Living Document Example.png
+
 
 Run this program on Terminal/command prompt
 	python3 LangRevision.py
